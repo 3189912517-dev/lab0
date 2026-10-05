@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Learning Git step by step in ICS Lab0.\n");
+    printf("Main branch says: Git history records every careful step.\n");
 }
