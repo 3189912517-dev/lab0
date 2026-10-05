@@ -2,6 +2,5 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    printf("Learning Git step by step in ICS Lab0.\n");
 }
