@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Learning Git step by step in ICS Lab0.\n");
+    printf("Feature branch says: Git branches make experiments safe.\n");
 }
